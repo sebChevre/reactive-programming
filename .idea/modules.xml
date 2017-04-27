@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blocking-server/blocking-server.iml" filepath="$PROJECT_DIR$/blocking-server/blocking-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactive-programming.iml" filepath="$PROJECT_DIR$/reactive-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactive-server/reactive-server.iml" filepath="$PROJECT_DIR$/reactive-server/reactive-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rx-java/rx-java.iml" filepath="$PROJECT_DIR$/rx-java/rx-java.iml" />
+    </modules>
+  </component>
+</project>
